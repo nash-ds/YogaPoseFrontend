@@ -21,3 +21,5 @@ This project is built with .
 - React
 - shadcn-ui
 - Tailwind CSS
+
+[![DOI](https://zenodo.org/badge/965207141.svg)](https://doi.org/10.5281/zenodo.15203980)
